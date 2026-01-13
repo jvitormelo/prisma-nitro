@@ -1,6 +1,4 @@
-# Prisma Nitro
-
-A TanStack Start application with Prisma ORM integration.
+# Prisma Nitro Bug
 
 ## Prerequisites
 
